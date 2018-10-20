@@ -11,7 +11,7 @@
 1. Install the required packages listed above
 2. Download this Repo
 3. Navigate to the root of the repo
-4. Run 'docker compose up'
+4. Run `docker compose up`
 5. Navigate to 'localhost:9001' in a web browser
 6. Refresh the page as many times as you'd like
 7. Verify the number of page hits increases with each page refresh
