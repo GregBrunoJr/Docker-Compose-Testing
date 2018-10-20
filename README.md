@@ -15,4 +15,14 @@
 5. Navigate to 'localhost:9001' in a web browser
 6. Refresh the page as many times as you'd like
 7. Verify the number of page hits increases with each page refresh
-8. Alternatively, run 'curl localhost:9001' (requires 'curl')
+8. Alternatively, run `curl localhost:9001` from a terminal (requires 'curl')
+9. Verify the number of page hits increases each time you rerun the curl command
+
+# Expected Results
+
+Web Browser:
+[![N|Solid](https://s3.amazonaws.com/gbruno-images/docker-compose-results-browser.png)](https://nodesource.com/products/nsolid)
+---
+Terminal:
+[![N|Solid](https://s3.amazonaws.com/gbruno-images/docker-compose-results-terminal.png)]
+
