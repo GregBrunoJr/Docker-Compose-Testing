@@ -21,8 +21,8 @@
 # Expected Results
 
 Web Browser:
-[![N|Solid](https://s3.amazonaws.com/gbruno-images/docker-compose-results-browser.png)](https://nodesource.com/products/nsolid)
----
+![N|Solid](https://s3.amazonaws.com/gbruno-images/docker-compose-results-browser.png)
+
 Terminal:
-[![N|Solid](https://s3.amazonaws.com/gbruno-images/docker-compose-results-terminal.png)]
+![N|Solid](https://s3.amazonaws.com/gbruno-images/docker-compose-results-terminal.png)
 
